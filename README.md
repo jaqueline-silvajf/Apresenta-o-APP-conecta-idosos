@@ -25,6 +25,8 @@ Estamos medindo o progresso em três frentes:
 🔸 Frequência de uso de serviços digitais
 🔸 Redução do sentimento de isolamento
 
+Esta publicação também está disponível no GitHub e no LinkedIn, em formato PDF, para quem desejar visualizar e analisar nossas propostas de negócio.
+
 ## 📜 Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
